@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;   
+   }
+body{
+   width: 100%;
+ 
+   text-align: left;
+   min-height: 100vh;
+   font-family: Verdana;
+   display: flex;
+   justify-content: center;
+   
+   }
+   ul.a {
+    list-style-type: circle;
+  }
+.container{
+      width: 50%;
+      overflow-y: scroll;
+      height: 90vh;
+      padding: 15px 10%;
+      box-shadow: 0 0 5px rgb(0, 0, 0);
+  }
+img{
+  float: right;
+  width: 100px;
+  height: 100px;
+}
+
+
