@@ -12,9 +12,7 @@ body{
    justify-content: center;
    
    }
-   ul.a {
-    list-style-type: circle;
-  }
+  
 .container{
       width: 50%;
       overflow-y: scroll;
